@@ -1,3 +1,3 @@
-# fun_with_flames
+# simple_calculator
 
-We have used Streamlit library to develop the FLAMES game. It is made by a user-friendly code by just dividing the logic into four steps. Every part of this code is completely customizable and we can add much more options to the front end. The result will be displayed instantly and we also added the option to rate the game.
+We used tkinter framework to write this code. It is a program that computes mathematical operations based on user input. We also used eval built-in function which makes the code a bit simpler. It performs all kind of arithmetic operations. We can also customize the color of the background and text and also change the size of every respective block according to our preference. We used a very friendly code which can support our requirements.
